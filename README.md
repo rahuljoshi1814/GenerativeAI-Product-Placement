@@ -15,12 +15,12 @@ This AI-powered tool takes standalone  product images and seamlessly places them
 
 ### 1. Clone the Repository
 
-git clone https://github.com/rahuljoshi1814/GenerativeAI-Product-Placement.git
-cd GenerativeAI-Product-Placement
+= git clone https://github.com/rahuljoshi1814/GenerativeAI-Product-Placement.git
+= cd GenerativeAI-Product-Placement
 
 ### 2. Install Dependencies
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ### 3. Download the Required AI Model
 
@@ -33,8 +33,8 @@ pip install -r requirements.txt
 - Follow the instructions in inputs/products/README.md.
 
 ## Running the Project
-Once everything is set up, run: **python main.py**
-This will process all product images and save the final results in outputs/.
+- Once everything is set up, run: **python main.py**
+- This will process all product images and save the final results in outputs/.
 
 ## Dataset Information
 - Product Images: Download from **inputs/products/README.md**.
