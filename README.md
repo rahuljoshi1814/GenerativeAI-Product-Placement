@@ -17,6 +17,7 @@ This AI-powered tool takes standalone **product images** and seamlessly places t
 **Optimized for Lean Hardware** – Runs on standard machines without high-end GPUs.  
 
 ## **Installation & Setup**
+
 ### 1️ Clone the Repository  
 ```bash
 git clone https://github.com/yourusername/GenerativeAI-ProductPlacement.git
@@ -56,8 +57,6 @@ This project is functional, but there are several ways to enhance it further:
 **Advanced Lighting Adjustments** – Implement **neural relighting** to adjust product lighting according to background conditions.  
 **User-Specified Positioning** – Allow users to **manually adjust** the placement of products inside backgrounds.  
 **More AI-Based Enhancements** – Integrate **Stable Diffusion Inpainting** to refine product blending using generative AI.
-
----
 
 ## Author
 ### **Rahul Joshi**  
