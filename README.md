@@ -4,18 +4,18 @@
 This AI-powered tool takes standalone  product images and seamlessly places them into ifestyle backgrounds, making them look like they naturally belong in the scene.
 
 ## Features
-### Batch Processing – Handles multiple product images at once.  
-### AI-Powered Segmentation – Uses **Segment Anything Model (SAM)** to extract product images.  
-### Realistic Placement – Ensures correct **perspective, lighting, and transparency**.  
-### Preserves Product Details – Keeps the original **quality, clarity, and shape**.  
-### Uses Only Free & Open-Source Models** – No paid APIs or tools required.  
-### Optimized for Lean Hardware – Runs on standard machines without high-end GPUs.
+**Batch Processing** – Handles multiple product images at once.  
+**AI-Powered Segmentation** – Uses **Segment Anything Model (SAM)** to extract product images.  
+**Realistic Placement** – Ensures correct **perspective, lighting, and transparency**.  
+**Preserves Product Details** – Keeps the original **quality, clarity, and shape**.  
+**Uses Only Free & Open-Source Models** – No paid APIs or tools required.  
+**Optimized for Lean Hardware** – Runs on standard machines without high-end GPUs.
 
 ## Installation & Setup
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/GenerativeAI-Product-Placement.git
+git clone https://github.com/rahuljoshi1814/GenerativeAI-Product-Placement.git
 cd GenerativeAI-Product-Placement
 
 ### 2. Install Dependencies
@@ -57,9 +57,13 @@ This project is functional, but there are several ways to enhance it further:
 - **More AI-Based Enhancements** – Integrate Stable Diffusion Inpainting to refine product blending using generative AI.
 
 ### Author
+
 **Rahul Joshi**
+
 📧 Email: **rahuljoshi1814@gmail.com **
+
 💼 LinkedIn: **https://www.linkedin.com/in/rahul-joshi-39a3a3276/ **
+
 🔗 GitHub: **https://github.com/rahuljoshi1814/GenerativeAI-Product-Placement.git **
 
 
