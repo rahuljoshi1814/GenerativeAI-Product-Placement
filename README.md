@@ -24,17 +24,17 @@ This AI-powered tool takes standalone  product images and seamlessly places them
 
 ### 3. Download the Required AI Model
 
-- The Segment Anything Model (SAM) is required for segmentation.
-- Follow the instructions in models/README.md to download and place the model.
+- The **Segment Anything Model (SAM)** is required for segmentation.
+- Follow the instructions in **models/README.md** to download and place the model.
 
 ### 4. Download & Place the Dataset
 
 - Download product images from the provided link.
-- Follow the instructions in inputs/products/README.md.
+- Follow the instructions in **inputs/products/README.md**.
 
 ## Running the Project
 - Once everything is set up, run: **python main.py**
-- This will process all product images and save the final results in outputs/.
+- This will process all product images and save the final results in **outputs/**.
 
 ## Dataset Information
 - Product Images: Download from **inputs/products/README.md**.
