@@ -4,12 +4,12 @@
 This AI-powered tool takes standalone  product images and seamlessly places them into ifestyle backgrounds, making them look like they naturally belong in the scene.
 
 ## Features
-**Batch Processing** – Handles multiple product images at once.  
-**AI-Powered Segmentation** – Uses **Segment Anything Model (SAM)** to extract product images.  
-**Realistic Placement** – Ensures correct **perspective, lighting, and transparency**.  
-**Preserves Product Details** – Keeps the original **quality, clarity, and shape**.  
-**Uses Only Free & Open-Source Models** – No paid APIs or tools required.  
-**Optimized for Lean Hardware** – Runs on standard machines without high-end GPUs.
+- **Batch Processing** – Handles multiple product images at once.
+- **AI-Powered Segmentation** – Uses **Segment Anything Model (SAM)** to extract product images.
+- **Realistic Placement** – Ensures correct **perspective, lighting, and transparency**.
+- **Preserves Product Details** – Keeps the original **quality, clarity, and shape**.
+- **Uses Only Free & Open-Source Models** – No paid APIs or tools required.
+- **Optimized for Lean Hardware** – Runs on standard machines without high-end GPUs.
 
 ## Installation & Setup
 
