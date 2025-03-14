@@ -41,6 +41,31 @@ This AI-powered tool takes standalone  product images and seamlessly places them
 - **Background Images**: Stored in **inputs/backgrounds/**.
 - **AI Model Checkpoints**: Download instructions in **models/README.md**.
 
+## Explanation of Each Folder & File
+### Folder/File	Purpose
+- **main.py**	- Runs the full pipeline (segmentation → blending → saving results)
+- **requirements.txt** - Contains the required Python libraries to install
+- **README.md**	- The main project documentation (GitHub)
+- **utils/**	- Contains helper functions for processing images
+- **utils/get_all_images.py**	- Fetches images recursively from inputs/ folders
+- **utils/segmentation.py**	- Extracts product from background using SAM
+- **utils/blending.py	Places** - product into background with realistic blending
+- **utils/batch_processing.py**	- Handles batch processing of multiple product images
+- **models/	Stores the AI models** - required for segmentation
+- **models/README.md** - Instructions to download & place the SAM model checkpoint
+- **inputs/**	- Stores all input images (products & backgrounds)
+- **inputs/products/** - Stores e-commerce product images (organized in subfolders)
+- **inputs/products/README.md**	- Instructions to download & organize the product dataset
+- **inputs/backgrounds/**	- Stores lifestyle background images
+- **inputs/backgrounds/README.md**	- (Optional) Instructions for adding custom backgrounds
+- **outputs/**	- Stores final processed images
+
+## Technical Details
+#### How It Works
+**1. Segmentation**: Uses Segment Anything Model (SAM) to extract product from its background.
+**2. Blending** : Applies alpha transparency, shadow effects, and scaling for natural placement.
+**3.Batch Processing**: Handles multiple images at once to generate realistic outputs quickly.
+
 ## Technologies Used
 - Python
 - OpenCV
