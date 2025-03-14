@@ -62,9 +62,9 @@ This AI-powered tool takes standalone  product images and seamlessly places them
 
 ## Technical Details
 #### How It Works
-**1. Segmentation**: Uses Segment Anything Model (SAM) to extract product from its background.
-**2. Blending** : Applies alpha transparency, shadow effects, and scaling for natural placement.
-**3.Batch Processing**: Handles multiple images at once to generate realistic outputs quickly.
+- **1. Segmentation**: Uses Segment Anything Model (SAM) to extract product from its background.
+- **2. Blending** : Applies alpha transparency, shadow effects, and scaling for natural placement.
+- **3.Batch Processing**: Handles multiple images at once to generate realistic outputs quickly.
 
 ## Technologies Used
 - Python
