@@ -17,33 +17,6 @@ A Generative AI tool that places e-commerce product images into realistic backgr
 ✅ **Uses Only Free & Open-Source Models** – No paid APIs or tools required.  
 ✅ **Optimized for Lean Hardware** – Runs on standard machines without high-end GPUs.  
 
----
-
-## 📂 Project Directory Structure
-GenerativeAI-ProductPlacement/
-│── main.py                     # Main script to run the pipeline
-│── requirements.txt             # Dependencies list
-│── README.md                    # Full project documentation
-│── utils/                        # Helper functions
-│   │── get_all_images.py         # Fetch images from folders
-│   │── segmentation.py           # AI-based product segmentation (SAM)
-│   │── blending.py               # Seamless blending with transparency
-│   │── batch_processing.py       # Handles multiple images in batch mode
-│── models/                       # Stores AI model checkpoints
-│   │── README.md                 # Instructions to download SAM model
-│── inputs/                       # Stores all input images
-│   │── products/                 # Product images (organized in subfolders)
-│   │   │── README.md             # Instructions to download & place dataset
-│   │── backgrounds/              # Lifestyle background images
-│   │   │── README.md             # (Optional) Instructions for adding backgrounds
-│── outputs/                      # Final processed images
-│── debug_outputs/                # Stores segmentation debug images
-│── test_segmentation.py          # Script to test segmentation results
-│── test_blending.py              # Script to test blending results
-
-
----
-
 ## 📥 **Installation & Setup**
 ### 1️⃣ Clone the Repository  
 ```bash
