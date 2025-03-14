@@ -37,9 +37,9 @@ This AI-powered tool takes standalone  product images and seamlessly places them
 - This will process all product images and save the final results in **outputs/**.
 
 ## Dataset Information
-- Product Images: Download from **inputs/products/README.md**.
-- Background Images: Stored in **inputs/backgrounds/**.
-- AI Model Checkpoints: Download instructions in **models/README.md**.
+- **Product Images**: Download from **inputs/products/README.md**.
+- **Background Images**: Stored in **inputs/backgrounds/**.
+- **AI Model Checkpoints**: Download instructions in **models/README.md**.
 
 ## Technologies Used
 - Python
