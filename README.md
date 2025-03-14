@@ -1,7 +1,7 @@
 # GenerativeAI-Product-Placement
 A Generative AI tool that places e-commerce product images into realistic backgrounds using SAM and OpenCV.
 
-# 🛒 Generative AI Product Placement Tool
+# Generative AI Product Placement Tool
 
 ### **Automatically Place E-Commerce Product Images into Realistic Lifestyle Backgrounds using AI**  
 
