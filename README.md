@@ -15,8 +15,8 @@ This AI-powered tool takes standalone  product images and seamlessly places them
 
 ### 1. Clone the Repository
 
-= git clone https://github.com/rahuljoshi1814/GenerativeAI-Product-Placement.git
-= cd GenerativeAI-Product-Placement
+- git clone https://github.com/rahuljoshi1814/GenerativeAI-Product-Placement.git
+- cd GenerativeAI-Product-Placement
 
 ### 2. Install Dependencies
 
